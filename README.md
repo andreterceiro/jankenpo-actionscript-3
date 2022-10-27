@@ -2,4 +2,4 @@
 
 https://www.youtube.com/watch?v=HS9bMQKeyN8
 
-ActionScript today? Adobe Flash in the "old way" died. True. But I will make it for fun.
+ActionScript today? Adobe Flash in the "old way" died. True. But I made it for fun.
